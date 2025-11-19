@@ -16,7 +16,8 @@ The primary objective is to evaluate whether self-supervised learning can acquir
 
 The following figure summarizes the principal finding of this project: **Data Efficiency**.
 
-**[Insert the 'benchmark\_comparison.png' image here]**
+<img width="3728" height="1694" alt="benchmark_comparison" src="https://github.com/user-attachments/assets/6e621855-b080-4439-81f3-7403865a5963" />
+
 
 ### Interpretation of the Results
 
